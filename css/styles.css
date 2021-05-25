@@ -83,7 +83,7 @@ body {
     justify-content: space-around;
     align-items: center;
     height: 60px;
-    position: absolute;
+    position: relative;
     width: 100%;
     overflow:hidden;
     bottom: 0;
